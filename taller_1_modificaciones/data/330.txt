@@ -1,0 +1,13 @@
+ID del pedido: 330
+Nombre del cliente: x
+Dirección del cliente: s
+Precio Total: 53609
+su cambio es: 6391
+Producto: todoterreno
+calorias: 1000
+Producto: piÃ±a
+calorias: 45
+Producto: combo corral
+calorias: 11565
+Producto: gaseosa
+calorias: 600
